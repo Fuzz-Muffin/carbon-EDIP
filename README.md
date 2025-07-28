@@ -1,4 +1,6 @@
 # carbon-EDIP
+### Nigel A. Marks
+
 The carbon environment dependent interaction potential (EDIP), often called the EDIP potential (yes, like ATM machine...).
 
 ## Relevant publications
